@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Grosmans On Pacific]]></title>
         <description><![CDATA[Grosmans On Pacific]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grosmans-on-pacific/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 04:01:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 04:08:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grosmans-on-pacific/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lets Kick this off with a welcome</p>]]></description>
-            <link>undefinedlets-kick-this-off-with-a-welcome/index.html</link>
+            <link>https://thegrid.ai/grosmans-on-pacific/lets-kick-this-off-with-a-welcome/index.html</link>
             <guid isPermaLink="false">5683349c-6a6d-419a-852d-379a6ab1f36c</guid>
-            <pubDate>Wed, 23 Mar 2016 04:01:41 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 04:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
